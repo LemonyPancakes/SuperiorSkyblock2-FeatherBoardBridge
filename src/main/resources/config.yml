@@ -1,0 +1,9 @@
+SuperiorSkyblock2:
+  #Featherboard Scoreboard when player has an island.
+  HasIsland: "hasislandscoreboard"
+
+  #Featherboard Scoreboard when player has no island.
+  NoIsland: "noislandscoreboard"
+AuthMe:
+  NotAuthenticated: "notauthenticated"
+  TicksToExecute: "0"

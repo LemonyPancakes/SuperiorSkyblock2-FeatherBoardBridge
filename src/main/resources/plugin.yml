@@ -1,0 +1,8 @@
+name: SuperiorSkyblock2-FeatherboardBridge
+version: ${project.version}
+main: me.swagpancakes.superiorskyblock2.featherboardbridge.Main
+api-version: 1.16
+depend: [ FeatherBoard, SuperiorSkyblock2 ]
+softdepend: [ AuthMe ]
+authors: [ SwagPancakes ]
+description: Bridges Featherboard and SuperiorSkyblock2
